@@ -1,10 +1,12 @@
-<input type="color" name="Plouf" value="#ff0000"> Plouf! 
+Plouf! 
 
 **ManonHML/ManonHML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+< FONT size="40pt">
+<textarea name="myTextarea" placeholder="A tout problème, une solution." cols="20" rows="10" minlength="10" maxlength="500" required></textarea>
+</FONT>.
 
 
-
-- 🔭 Actuellement Admin systèmes et réseaux dans la fonction hospitalière
+- 🔭 Actuellement Admin systèmes et Réseaux dans la fonction hospitalière
 - 🌱 Je commence à me former en Python, HTML, CSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,3 +15,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![unnamed](https://user-images.githubusercontent.com/104076967/194875358-d2ce7cb6-336f-4e4e-add4-f8a66a47790e.png)
