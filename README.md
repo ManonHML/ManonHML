@@ -7,4 +7,4 @@ Plouf!
 - 🌱 Débute en Python, HTML, CSS
 
 
-![unnamed](https://user-images.githubusercontent.com/104076967/194875358-d2ce7cb6-336f-4e4e-add4-f8a66a47790e.png)
+<a href="https://www.linkedin.com/in/manon-hamel-754894249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manon-hamel-754894249/" height="30" width="40" /></a>
