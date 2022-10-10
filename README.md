@@ -1,9 +1,6 @@
 Plouf! 
 
 **ManonHML/ManonHML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-< FONT size="40pt">
-<textarea name="myTextarea" placeholder="A tout problème, une solution." cols="20" rows="10" minlength="10" maxlength="500" required></textarea>
-</FONT>.
 
 
 - 🔭 Actuellement Admin systèmes et Réseaux dans la fonction hospitalière
