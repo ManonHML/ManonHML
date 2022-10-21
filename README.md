@@ -1,7 +1,7 @@
 Plouf! :octopus:
 
 
-- :mushroom: Admin systèmes et Réseaux
+- :mushroom: Admin Systèmes et Réseaux
 - :cactus: Débute en Python, HTML, CSS
 - :shell: PowerShell
 
